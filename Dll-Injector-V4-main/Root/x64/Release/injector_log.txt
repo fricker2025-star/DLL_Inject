@@ -1,0 +1,298 @@
+2025-09-29 15:37:25 - DllInjectProject: main function started.
+2025-09-29 15:37:25 - Attempting stealth DLL injection...
+2025-09-29 15:37:25 - 35868
+2025-09-29 15:37:25 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:37:25 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 15:37:25 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 15:37:25 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 15:37:25 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 15:37:25 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 15:37:25 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 15:37:25 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 15:37:25 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 15:37:25 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:37:25 - Stealth DLL injection successful.
+2025-09-29 15:49:11 - DllInjectProject: main function started.
+2025-09-29 15:49:11 - Attempting stealth DLL injection...
+2025-09-29 15:49:11 - 35868
+2025-09-29 15:49:11 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 35868
+2025-09-29 15:49:11 - Successfully opened process with ID: 35868
+2025-09-29 15:49:11 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 15:49:11 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 15:49:11 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - Preferred base address 0x180000000 taken, attempting allocation anywhere.
+2025-09-29 15:49:11 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 15:49:11 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 15:49:11 - Memory allocated at 0x242d3510000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 15:49:11 - DLL headers written to target process at 0x242d3510000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 15:49:11 - NtQueryInformationProcess successful. PEB base address: 0x8042e2f000
+2025-09-29 15:49:11 - Successfully read PEB from remote process.
+2025-09-29 15:49:11 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 15:49:11 - Successfully wrote section 0 to target process.
+2025-09-29 15:49:11 - Successfully wrote section 1 to target process.
+2025-09-29 15:49:11 - Successfully wrote section 2 to target process.
+2025-09-29 15:49:11 - Successfully wrote section 3 to target process.
+2025-09-29 15:49:11 - Successfully wrote section 4 to target process.
+2025-09-29 15:49:11 - Successfully wrote section 5 to target process.
+2025-09-29 15:49:11 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 15:49:11 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - Memory allocated for MANUAL_MAPPING_DATA at 0x242e9a90000 in target process.
+2025-09-29 15:49:11 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 15:49:11 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 15:49:11 - Memory allocated for shellcode at 0x242e9aa0000 in target process.
+2025-09-29 15:49:11 - Shellcode written to target process at 0x242e9aa0000.
+2025-09-29 15:49:11 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 15:49:11 - Remote thread created at 0xbc for shellcode execution.
+2025-09-29 15:49:11 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 15:49:11 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:11 - Stealth DLL injection successful.
+2025-09-29 15:49:40 - DllInjectProject: main function started.
+2025-09-29 15:49:40 - Attempting stealth DLL injection...
+2025-09-29 15:49:40 - 35868
+2025-09-29 15:49:40 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 35868
+2025-09-29 15:49:40 - Successfully opened process with ID: 35868
+2025-09-29 15:49:40 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 15:49:40 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 15:49:40 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - Preferred base address 0x180000000 taken, attempting allocation anywhere.
+2025-09-29 15:49:40 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 15:49:40 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 15:49:40 - Memory allocated at 0x242e9ab0000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 15:49:40 - DLL headers written to target process at 0x242e9ab0000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 15:49:40 - NtQueryInformationProcess successful. PEB base address: 0x8042e2f000
+2025-09-29 15:49:40 - Successfully read PEB from remote process.
+2025-09-29 15:49:40 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 15:49:40 - Successfully wrote section 0 to target process.
+2025-09-29 15:49:40 - Successfully wrote section 1 to target process.
+2025-09-29 15:49:40 - Successfully wrote section 2 to target process.
+2025-09-29 15:49:40 - Successfully wrote section 3 to target process.
+2025-09-29 15:49:40 - Successfully wrote section 4 to target process.
+2025-09-29 15:49:40 - Successfully wrote section 5 to target process.
+2025-09-29 15:49:40 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 15:49:40 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - Memory allocated for MANUAL_MAPPING_DATA at 0x242e9ad0000 in target process.
+2025-09-29 15:49:40 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 15:49:40 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 15:49:40 - Memory allocated for shellcode at 0x242e9ae0000 in target process.
+2025-09-29 15:49:40 - Shellcode written to target process at 0x242e9ae0000.
+2025-09-29 15:49:40 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 15:49:40 - Remote thread created at 0xf8 for shellcode execution.
+2025-09-29 15:49:40 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 15:49:40 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 15:49:40 - Stealth DLL injection successful.
+2025-09-29 16:29:43 - DllInjectProject: main function started.
+2025-09-29 16:29:43 - Attempting stealth DLL injection...
+2025-09-29 16:29:43 - 48552
+2025-09-29 16:29:43 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 48552
+2025-09-29 16:29:43 - Successfully opened process with ID: 48552
+2025-09-29 16:29:43 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 16:29:43 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 16:29:43 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 16:29:43 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 16:29:43 - Memory allocated at 0x180000000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 16:29:43 - DLL headers written to target process at 0x180000000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 16:29:43 - NtQueryInformationProcess successful. PEB base address: 0x47367b9000
+2025-09-29 16:29:43 - Successfully read PEB from remote process.
+2025-09-29 16:29:43 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 16:29:43 - Successfully wrote section 0 to target process.
+2025-09-29 16:29:43 - Successfully wrote section 1 to target process.
+2025-09-29 16:29:43 - Successfully wrote section 2 to target process.
+2025-09-29 16:29:43 - Successfully wrote section 3 to target process.
+2025-09-29 16:29:43 - Successfully wrote section 4 to target process.
+2025-09-29 16:29:43 - Successfully wrote section 5 to target process.
+2025-09-29 16:29:43 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 16:29:43 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - Memory allocated for MANUAL_MAPPING_DATA at 0x197491b0000 in target process.
+2025-09-29 16:29:43 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 16:29:43 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 16:29:43 - Memory allocated for shellcode at 0x197491c0000 in target process.
+2025-09-29 16:29:43 - Shellcode written to target process at 0x197491c0000.
+2025-09-29 16:29:43 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 16:29:43 - Remote thread created at 0x10c for shellcode execution.
+2025-09-29 16:29:43 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 16:29:43 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:29:43 - Stealth DLL injection successful.
+2025-09-29 16:30:12 - DllInjectProject: main function started.
+2025-09-29 16:30:12 - Attempting stealth DLL injection...
+2025-09-29 16:30:12 - 48552
+2025-09-29 16:30:12 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 48552
+2025-09-29 16:30:12 - Successfully opened process with ID: 48552
+2025-09-29 16:30:12 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 16:30:12 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 16:30:12 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - Preferred base address 0x180000000 taken, attempting allocation anywhere.
+2025-09-29 16:30:12 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 16:30:12 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 16:30:12 - Memory allocated at 0x197491b0000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 16:30:12 - DLL headers written to target process at 0x197491b0000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 16:30:12 - NtQueryInformationProcess successful. PEB base address: 0x47367b9000
+2025-09-29 16:30:12 - Successfully read PEB from remote process.
+2025-09-29 16:30:12 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 16:30:12 - Successfully wrote section 0 to target process.
+2025-09-29 16:30:12 - Successfully wrote section 1 to target process.
+2025-09-29 16:30:12 - Successfully wrote section 2 to target process.
+2025-09-29 16:30:12 - Successfully wrote section 3 to target process.
+2025-09-29 16:30:12 - Successfully wrote section 4 to target process.
+2025-09-29 16:30:12 - Successfully wrote section 5 to target process.
+2025-09-29 16:30:12 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 16:30:12 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - Memory allocated for MANUAL_MAPPING_DATA at 0x197491d0000 in target process.
+2025-09-29 16:30:12 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 16:30:12 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 16:30:12 - Memory allocated for shellcode at 0x197491e0000 in target process.
+2025-09-29 16:30:12 - Shellcode written to target process at 0x197491e0000.
+2025-09-29 16:30:12 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 16:30:12 - Remote thread created at 0xd0 for shellcode execution.
+2025-09-29 16:30:12 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 16:30:12 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:30:12 - Stealth DLL injection successful.
+2025-09-29 16:32:57 - DllInjectProject: main function started.
+2025-09-29 16:32:57 - Attempting stealth DLL injection...
+2025-09-29 16:32:57 - Stealth DLL injection successful.
+2025-09-29 16:34:53 - DllInjectProject: main function started.
+2025-09-29 16:34:53 - Attempting stealth DLL injection...
+2025-09-29 16:34:53 - 48552
+2025-09-29 16:34:53 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 48552
+2025-09-29 16:34:53 - Successfully opened process with ID: 48552
+2025-09-29 16:34:53 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 16:34:53 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 16:34:53 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - Preferred base address 0x180000000 taken, attempting allocation anywhere.
+2025-09-29 16:34:53 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 16:34:53 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 16:34:53 - Memory allocated at 0x197491f0000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 16:34:53 - DLL headers written to target process at 0x197491f0000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 16:34:53 - NtQueryInformationProcess successful. PEB base address: 0x47367b9000
+2025-09-29 16:34:53 - Successfully read PEB from remote process.
+2025-09-29 16:34:53 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 16:34:53 - Successfully wrote section 0 to target process.
+2025-09-29 16:34:53 - Successfully wrote section 1 to target process.
+2025-09-29 16:34:53 - Successfully wrote section 2 to target process.
+2025-09-29 16:34:53 - Successfully wrote section 3 to target process.
+2025-09-29 16:34:53 - Successfully wrote section 4 to target process.
+2025-09-29 16:34:53 - Successfully wrote section 5 to target process.
+2025-09-29 16:34:53 - Found fnTestDLL at local address 0x7fff5cf21000, offset 0x1000
+2025-09-29 16:34:53 - Calculated remote fnTestDLL address: 0x197491f1000
+2025-09-29 16:34:53 - pInjectedFunction remote address: 0x197491f1000
+2025-09-29 16:34:53 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 16:34:53 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - Memory allocated for MANUAL_MAPPING_DATA at 0x19749210000 in target process.
+2025-09-29 16:34:53 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 16:34:53 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 16:34:53 - Memory allocated for shellcode at 0x19749220000 in target process.
+2025-09-29 16:34:53 - Shellcode written to target process at 0x19749220000.
+2025-09-29 16:34:53 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 16:34:53 - Remote thread created at 0x124 for shellcode execution.
+2025-09-29 16:34:53 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 16:34:53 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:34:53 - Stealth DLL injection successful.
+2025-09-29 16:36:29 - DllInjectProject: main function started.
+2025-09-29 16:36:29 - Attempting stealth DLL injection...
+2025-09-29 16:36:29 - 48552
+2025-09-29 16:36:29 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 48552
+2025-09-29 16:36:29 - Successfully opened process with ID: 48552
+2025-09-29 16:36:29 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 16:36:29 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 16:36:29 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - Preferred base address 0x180000000 taken, attempting allocation anywhere.
+2025-09-29 16:36:29 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 16:36:29 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 16:36:29 - Memory allocated at 0x19749210000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 16:36:29 - DLL headers written to target process at 0x19749210000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 16:36:29 - NtQueryInformationProcess successful. PEB base address: 0x47367b9000
+2025-09-29 16:36:29 - Successfully read PEB from remote process.
+2025-09-29 16:36:29 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 16:36:29 - Successfully wrote section 0 to target process.
+2025-09-29 16:36:29 - Successfully wrote section 1 to target process.
+2025-09-29 16:36:29 - Successfully wrote section 2 to target process.
+2025-09-29 16:36:29 - Successfully wrote section 3 to target process.
+2025-09-29 16:36:29 - Successfully wrote section 4 to target process.
+2025-09-29 16:36:29 - Successfully wrote section 5 to target process.
+2025-09-29 16:36:29 - Found fnTestDLL at local address 0x7fff55a21000, offset 0x1000
+2025-09-29 16:36:29 - Calculated remote fnTestDLL address: 0x19749211000
+2025-09-29 16:36:29 - pInjectedFunction remote address: 0x19749211000
+2025-09-29 16:36:29 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 16:36:29 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - Memory allocated for MANUAL_MAPPING_DATA at 0x19749230000 in target process.
+2025-09-29 16:36:29 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 16:36:29 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 16:36:29 - Memory allocated for shellcode at 0x19749240000 in target process.
+2025-09-29 16:36:29 - Shellcode written to target process at 0x19749240000.
+2025-09-29 16:36:29 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 16:36:29 - Remote thread created at 0x114 for shellcode execution.
+2025-09-29 16:36:29 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 16:36:29 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:36:29 - Stealth DLL injection successful.
+2025-09-29 16:37:54 - DllInjectProject: main function started.
+2025-09-29 16:37:54 - Attempting stealth DLL injection...
+2025-09-29 16:37:54 - 48552
+2025-09-29 16:37:54 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - Attempting to inject DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll into process ID: 48552
+2025-09-29 16:37:54 - Successfully opened process with ID: 48552
+2025-09-29 16:37:54 - Successfully opened DLL file: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll, reading into memory.
+2025-09-29 16:37:54 - òÕÝØÑÐÀÛÃÆÝÀÑÇÜÑØØ×ÛÐÑÀÛÀÕÆÓÑÀÄÆÛ×ÑÇÇ
+2025-09-29 16:37:54 - PE headers parsed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - Preferred base address 0x180000000 taken, attempting allocation anywhere.
+2025-09-29 16:37:54 - ôÓÛÞ×ÖÆÝÅÀÛÆ×ÁÚ×ÞÞÑÝÖ×ÆÝÆÓÀÕ×ÆÂÀÝÑ×ÁÁ
+2025-09-29 16:37:54 - ð×ßÚÓÒÂÙÁÄßÂÓÅÞÓÚÚÕÙÒÓÂÙÂ×ÄÑÓÂÆÄÙÕÓÅÅ
+2025-09-29 16:37:54 - Memory allocated at 0x19749230000 in target process for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - öÑÙÜÕÔÄßÇÂÙÄÕÃØÕÜÜÓßÔÕÄßÄÑÂ×ÕÄÀÂßÓÕÃÃ
+2025-09-29 16:37:54 - DLL headers written to target process at 0x19749230000 for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - Successfully retrieved address of NtQueryInformationProcess.
+2025-09-29 16:37:54 - NtQueryInformationProcess successful. PEB base address: 0x47367b9000
+2025-09-29 16:37:54 - Successfully read PEB from remote process.
+2025-09-29 16:37:54 - Successfully read PEB_LDR_DATA from remote process.
+2025-09-29 16:37:54 - Successfully wrote section 0 to target process.
+2025-09-29 16:37:54 - Successfully wrote section 1 to target process.
+2025-09-29 16:37:54 - Successfully wrote section 2 to target process.
+2025-09-29 16:37:54 - Successfully wrote section 3 to target process.
+2025-09-29 16:37:54 - Successfully wrote section 4 to target process.
+2025-09-29 16:37:54 - Successfully wrote section 5 to target process.
+2025-09-29 16:37:54 - Found fnTestDLL at local address 0x7fff54fd1000, offset 0x1000
+2025-09-29 16:37:54 - Calculated remote fnTestDLL address: 0x19749231000
+2025-09-29 16:37:54 - pInjectedFunction remote address: 0x19749231000
+2025-09-29 16:37:54 - úÝÕÐÙØÈÓËÎÕÈÙÏÔÙÐÐßÓØÙÈÓÈÝÎÛÙÈÌÎÓßÙÏÏ
+2025-09-29 16:37:54 - MANUAL_MAPPING_DATA prepared for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - Memory allocated for MANUAL_MAPPING_DATA at 0x19749250000 in target process.
+2025-09-29 16:37:54 - øß×ÒÛÚÊÑÉÌ×ÊÛÍÖÛÒÒÝÑÚÛÊÑÊßÌÙÛÊÎÌÑÝÛÍÍ
+2025-09-29 16:37:54 - MANUAL_MAPPING_DATA written to target process.
+2025-09-29 16:37:54 - Memory allocated for shellcode at 0x19749260000 in target process.
+2025-09-29 16:37:54 - Shellcode written to target process at 0x19749260000.
+2025-09-29 16:37:54 - þÙÑÔÝÜÌ×ÏÊÑÌÝËÐÝÔÔÛ×ÜÝÌ×ÌÙÊßÝÌÈÊ×ÛÝËË
+2025-09-29 16:37:54 - Remote thread created at 0x10c for shellcode execution.
+2025-09-29 16:37:54 - üÛÓÖßÞÎÕÍÈÓÎßÉÒßÖÖÙÕÞßÎÕÎÛÈÝßÎÊÈÕÙßÉÉ
+2025-09-29 16:37:54 - Remote thread execution completed for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - DLL injection completed successfully for DLL: C:\Users\frecc\Desktop\Dll-Injector-V4-main\Root\TestDLL\TestDLL.dll
+2025-09-29 16:37:54 - Stealth DLL injection successful.
